@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Microsoft.AspNetCore.SpaProxy/8.0.0": {
+      "Microsoft.AspNetCore.SpaProxy/8.0.2": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -107,10 +107,10 @@
     }
   },
   "libraries": {
-    "Microsoft.AspNetCore.SpaProxy/8.0.0": {
-      "sha512": "bVz+tU77Gsl7RvQHykG2EoUlReUHS0/jBqAsR1lRgIan7cx3oKSwcZ1K3b7JmKhrKGb1I/JB94irDXNHFYKxKA==",
+    "Microsoft.AspNetCore.SpaProxy/8.0.2": {
+      "sha512": "AJO5WO1A7WsyxxjVbcHlvAu3dCJOchP7zgjmcLTJum3wqIgCxVWUL+X+bB24eat91jtPXAJRdH1imwZg/1BeQw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/8.0.0",
+      "path": "microsoft.aspnetcore.spaproxy/8.0.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -118,7 +118,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.8.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.8.0.2.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -464,11 +464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Redmibook14\\source\\repos\\ReactApp1\\ReactApp1.Server\\ReactApp1.Server.csproj",
-      "projectName": "ReactApp1.Server",
-      "projectPath": "C:\\Users\\Redmibook14\\source\\repos\\ReactApp1\\ReactApp1.Server\\ReactApp1.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Redmibook14\\source\\repos\\ReactApp1\\brandub.Server\\brandub.Server.csproj",
+      "projectName": "brandub.Server",
+      "projectPath": "C:\\Users\\Redmibook14\\source\\repos\\ReactApp1\\brandub.Server\\brandub.Server.csproj",
       "packagesPath": "C:\\Users\\Redmibook14\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Redmibook14\\source\\repos\\ReactApp1\\ReactApp1.Server\\obj\\",
+      "outputPath": "C:\\Users\\Redmibook14\\source\\repos\\ReactApp1\\brandub.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Redmibook14\\AppData\\Roaming\\NuGet\\NuGet.Config",

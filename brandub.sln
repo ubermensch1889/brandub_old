@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactApp1.Server", "ReactApp1.Server\ReactApp1.Server.csproj", "{A139AEE1-DBB8-4EBB-B1A3-166EFAAB7C59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "brandub.Server", "brandub.Server\brandub.Server.csproj", "{A139AEE1-DBB8-4EBB-B1A3-166EFAAB7C59}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactapp1.client", "reactapp1.client\reactapp1.client.esproj", "{E2DEF94A-C0AE-4A01-8632-D189F5450268}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "brundub.client", "brundub.client\brundub.client.esproj", "{E2DEF94A-C0AE-4A01-8632-D189F5450268}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
